@@ -1,0 +1,9 @@
+#container {
+    width:200px;
+    height:200px;
+    border: 2px solid black;
+}
+body {
+    margin: 200px;
+    display: flex;
+}
